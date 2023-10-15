@@ -7,7 +7,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HomeComponent } from './home/home.component';
+import { HomeComponent } from './static-pages/home/home.component';
 import { SideNavbarComponent } from './static-pages/side-navbar/side-navbar.component';
 import { HeaderComponent } from './static-pages/header/header.component';
 import { FooterComponent } from './static-pages/footer/footer.component';
