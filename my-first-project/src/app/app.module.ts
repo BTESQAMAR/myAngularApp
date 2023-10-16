@@ -14,6 +14,8 @@ import { FooterComponent } from './static-pages/footer/footer.component';
 import { ServicesComponent } from './static-pages/services/services.component';
 import { AboutComponent } from './static-pages/about/about.component';
 import { ContactUsComponent } from './static-pages/contact-us/contact-us.component';
+import { UserProfileComponent } from './static-pages/user-profile/user-profile.component';
+import { LoginPageComponent } from './static-pages/login-page/login-page.component';
 
 
 @NgModule({
@@ -25,7 +27,9 @@ import { ContactUsComponent } from './static-pages/contact-us/contact-us.compone
     FooterComponent,
     ServicesComponent,
     AboutComponent,
-    ContactUsComponent
+    ContactUsComponent,
+    UserProfileComponent,
+    LoginPageComponent
     
   ],
   imports: [

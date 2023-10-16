@@ -2,3 +2,35 @@
     width: 100px;
     height: 300px;
 }
+
+.btn-login {
+    padding: 12px 24px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .btn-login:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-register {
+    padding: 12px 24px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    background-color: #28a745;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    transition: background-color 0.3s ease-in-out;
+    margin-left: 10px;
+  }
+  
+  .btn-register:hover {
+    background-color: #218838;
+  }
+  

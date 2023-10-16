@@ -188,3 +188,23 @@ a {
 nav {
     height: 100px;
 }
+
+
+
+
+.user-profile {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .user-profile img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    margin-bottom: 0px;
+  }
+
+  .user-profile-toggle a i {
+    font-size: 1.2em; /* Adjust the size of the kebab icon */
+  }
